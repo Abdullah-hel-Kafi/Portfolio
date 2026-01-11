@@ -22,17 +22,20 @@
     font-size: 36px ;
     font-weight: 700;
     margin-bottom: 30px ;
-    
+   
 } .section-heading p{
   max-width: 827px;
   text-align: center;
    font-size: 18px ;
     color: #757575;
     margin-bottom: 30px ;
+
 }
 .section-heading{
     font-size: 35;
     font-weight: bold;
+    margin:0 auto;
+    text-align: center;
 }
 .logo h2{
     font-size:45px ;
@@ -120,3 +123,108 @@ align-items: center;
     color: #757575;
     
 }
+#skills{
+    padding: 31px 0;
+ width: 71%;
+    max-width: 1140px;
+    margin:0 auto;
+   
+}
+
+    
+
+.section-head h2{
+    
+    font-size: 36px ;
+    font-weight: 700;
+    margin-bottom: 30px ;
+    text-align: center;
+}
+
+.section-head p{
+  max-width: 827px;
+  text-align: center;
+   font-size: 18px ;
+    color: #757575;
+    margin-bottom: 30px ;
+    padding-left: 260px;
+    padding-right: 0px;
+
+}
+
+ .skill-box{
+    display: flex;
+    
+    gap: 40px ;
+    margin-top: 50px ;}
+    .skill-card{
+        padding:30px ;
+       
+        max-width: 267px;
+        box-shadow: 0px 6px 50px 0px #5f58abfa;
+        
+    } .skill-card img{
+        max-width: 44px;
+        margin-bottom: 30px;
+    }
+    .skill-card h3{
+       font-size: 20px ;
+        font-weight: bold;
+        color: #181818;
+        margin-bottom: 20px ;
+    } .skill-card p{
+        max-width: 827px;
+  
+   font-size: 18px ;
+    color: #757575;
+    margin-bottom: 30px ;
+    }
+        
+.resume-content{
+    display: flex;
+    justify-self: center;
+   
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+} 
+.section-heading h2{
+    margin-top: 130px;
+    margin-bottom: 113px;
+    font-size: 35px;
+    font-weight: bold;}
+    .resume-title{
+         margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold ;
+    color: #474747;
+    
+    }
+.card-title{
+    font-size: 25px;
+    font-weight: bold ;
+    color: #474747;
+     margin-top: 30px;
+     margin-right: 71px;
+}
+.card-info{
+    font-size: 20px;
+    font-weight: bold ;
+    color: #757575;
+     margin-top: 30px;margin-right: 71px;
+}
+.card-details{
+    font-size: 16px;
+    
+    color: #757575;
+    margin-top: 30px;
+    margin-bottom: 30px;margin-right: 71px;
+}
+.Experience-title{
+         margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold ;
+    color: #474747;
+    
+    }
