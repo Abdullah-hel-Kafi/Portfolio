@@ -104,7 +104,8 @@ align-items: center;
 
 }
 #about{
-    padding: 131px;
+    padding: 31px;
+    
 }
 #about .about-content{
    width: 71%;
@@ -115,6 +116,7 @@ align-items: center;
     padding:131px 157px;
 }
 #about .about-content .About-info{
+    width: 100%;
     display: flex;
    
     justify-content: space-around;
